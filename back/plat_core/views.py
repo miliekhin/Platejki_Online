@@ -663,4 +663,4 @@ def index(request):
 #         return Response({'user': user_srzr, })
 #         # return Response({'user': user_srzr, 'scheta': schet_srzr})
 
-# test 2
+# test 3
