@@ -662,3 +662,5 @@ def index(request):
 #         # schet_srzr = SchetaByAdresSerializer(user.adres.all()).data
 #         return Response({'user': user_srzr, })
 #         # return Response({'user': user_srzr, 'scheta': schet_srzr})
+
+# test 2
